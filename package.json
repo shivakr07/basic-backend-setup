@@ -1,6 +1,6 @@
 {
   "name": "basic-backend-setup",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "\"A basic Node.js and express server setup with mongodb connectivity ans sample routes\"",
   "main": "index.js",
   "scripts": {
