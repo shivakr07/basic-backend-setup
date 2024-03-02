@@ -1,0 +1,22 @@
+{
+  "name": "basic-backend-setup",
+  "version": "1.0.6",
+  "description": "\"A basic Node.js and express server setup with mongodb connectivity ans sample routes\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "your-package-name": "./index.js"
+  },
+  "keywords": ["node", "express", "mongodb", "backend"],
+  "author": "Shivam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs-extra": "^10.0.0",
+    "path": "^0.12.7"
+  }
+}
+
+
