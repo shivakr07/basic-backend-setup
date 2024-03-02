@@ -1,6 +1,7 @@
 # basic-backend-setup
 
 ![Basic Backend Setup](https://raw.githubusercontent.com/shivakr07/datastructure/master/package-logo.png)
+
 [![npm version](https://badge.fury.io/js/basic-backend-setup.svg)](https://www.npmjs.com/package/basic-backend-setup)  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A utility for setting up a basic backend server with Node.js and Express, incorporating MySQL database connectivity and using ORM Sequelize. This package also includes better loggers for status codes and sets up directories following the MVC pattern for a REST API.
@@ -42,7 +43,7 @@ A utility for setting up a basic backend server with Node.js and Express, incorp
 
 ## GitHub Repository
 
-Find the source code on GitHub: [GitHub Repository](https://github.com/YourUsername/YourRepository)
+Find the source code on GitHub: [GitHub Repository](https://github.com/shivakr07/basic-backend-setup)
 
 
 ## License
@@ -51,9 +52,9 @@ Find the source code on GitHub: [GitHub Repository](https://github.com/YourUsern
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@shivakr07](https://www.github.com/https://github.com/shivakr07)
 
 ## 🔗 Links
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-shivakr07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivakr07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivakumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivakumar07) [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle) [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolioURL-4285F4?style=for-the-badge&logo=portfolio&logoColor=white)](https://shivakr07.github.io/PortFolio1.0/)
+[![GitHub](https://img.shields.io/badge/GitHub-shivakr07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivakr07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivakumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivakumar07) [![Twitter](https://img.shields.io/badge/Twitter-SHIVAM_K01-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SHIVAM_K01) [![Portfolio](https://img.shields.io/badge/Portfolio-shivakr-4285F4?style=for-the-badge&logo=portfolio&logoColor=white)](https://shivakr07.github.io/PortFolio1.0/)
